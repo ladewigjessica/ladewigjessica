@@ -36,7 +36,7 @@ I have a degree in Oceanography from Brazil, a Master in Ecological Marine Manag
 
 | Project | Description | Tools |
 |---|---|---|
-| [Mini E-commerce](https://github.com/ladewigjessica) | Small online store, mostly complete — cart and catalogue work, payment integration pending | PHP, HTML, CSS, SQL |
+| [Mini E-commerce](https://github.com/ladewigjessica/records-store) | Small online store, mostly complete — cart and catalogue work, payment integration pending | PHP, HTML, CSS, SQL |
 
 ---
 

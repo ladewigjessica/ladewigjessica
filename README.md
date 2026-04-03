@@ -1,4 +1,4 @@
-# Jéssica Ladewig
+# Jéssica Ladewig 🌊🦪
 
 I have a degree in Oceanography from Brazil, a Master in Ecological Marine Management from Vrije Universiteit Brussel, and a PhD in Marine and Environmental Sciences from Aveiro. My research focused on the effects of contaminants on bivalves — field transplants in Portugal and Mexico, lab bioassays with pesticides and oil samples, four species. After the PhD I took a break for personal reasons and spent some years doing completely different things. When I eventually found programming I liked it, and it seemed like a good opportunity to finally do something with all that data I still have sitting around.
 

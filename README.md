@@ -30,7 +30,7 @@ I have a degree in Oceanography from Brazil, a Master in Ecological Marine Manag
 
 | Project | Description | Tools |
 |---|---|---|
-| [Titanic Survival Analysis](https://github.com/ladewigjessica) | Exploratory analysis and classification — the classic dataset, done carefully | Python, scikit-learn |
+| [Titanic Survival Analysis](https://github.com/ladewigjessica/titanic-survival-analysis) | Exploratory analysis and classification — the classic dataset, done carefully | Python, scikit-learn |
 
 ### Programming
 

@@ -31,7 +31,8 @@ I have a degree in Oceanography from Brazil, a Master in Ecological Marine Manag
 | Project | Description | Tools |
 |---|---|---|
 | [Titanic Survival Analysis](https://github.com/ladewigjessica/titanic-survival-analysis) | Exploratory analysis and classification — the classic dataset, done carefully | Python, pandas, Matplotlib, Seaborn, scikit-learn |
-| [Porto Property Analysis](https://github.com/ladewigjessica/porto-property-analysis) | Exploratory analysis and price prediction for 98 manually collected listings in two Porto parishes | Python, pandas, Matplotlib, Seaborn, scikit-learn|
+| [Porto Property Analysis](https://github.com/ladewigjessica/porto-property-analysis) | Exploratory analysis and price prediction for 98 manually collected listings in two Porto parishes | Python, pandas, Matplotlib, Seaborn, scikit-learn |
+| [GPT-2 Mechanic Fine-Tuning](https://github.com/ladewigjessica/gpt2-mechanic-finetuning) | GPT-2 fine-tuned on a custom car mechanic dialogue corpus | Python, PyTorch, Hugging Face |
 
 ### Programming
 

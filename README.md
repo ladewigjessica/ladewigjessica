@@ -1,6 +1,8 @@
 # Jéssica Ladewig 🌊🦪
 
-I have a degree in Oceanography from Brazil, a Master in Ecological Marine Management from Vrije Universiteit Brussel, and a PhD in Marine and Environmental Sciences from Aveiro. My research focused on the effects of contaminants on bivalves — field transplants in Portugal and Mexico, lab bioassays with pesticides and oil samples, four species. After the PhD I took a break for personal reasons and spent some years doing completely different things. When I eventually found programming I liked it, and it seemed like a good opportunity to finally do something with all that data I still have sitting around.
+I am an oceanographer with a PhD in Marine and Environmental Sciences from Universidade de Aveiro (Portugal), a Master of Ecological Marine Management with Distinction from Vrije Universiteit Brussel (Belgium), and a degree in Oceanography from Universidade Federal do Paraná (Brazil). Long before the PhD, I was already in the lab — collecting, running bioassays, analysing data. My undergraduate thesis looked at the effects of heavy metals and dissolved organic matter on microalgae. My Master's dissertation studied the effects of heavy metals, arsenic and salinity on mussels from the Scheldt Estuary in Belgium. By the time I finished my doctorate I had worked with multiple bivalve species across field sites in Belgium, Portugal and Mexico, run lab experiments with pesticides and oil samples, and spent years producing and making sense of complex biological datasets. That kind of work does not get easier with time, but it does make you very good at knowing what data actually means.
+
+When I eventually stepped away, I found programming. It turned out I liked it, and it seemed like a good opportunity to finally do something useful with all the data I still have sitting around.
 
 ---
 

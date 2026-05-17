@@ -49,8 +49,8 @@ When I eventually stepped away, I found programming. It turned out I liked it, a
 - PhD in Marine and Environmental Sciences — Universidade de Aveiro, Portugal (2010–2016)
 - MSc in Marine Ecological Management — Vrije Universiteit Brussels, Belgium (2007–2009)
 - BSc in Oceanography — Universidade Federal do Paraná, Brazil (2002–2007)
-- Data Science Ambiental — CINEL, Portugal (2025)
-- SQL & Advanced Data Analysis (2026)
+- Data Science — CINEL, Portugal (2025)
+- SQL & Advanced Data Analysis  — CINEL, Portugal (2026)
 - Google Analytics Professional Certificate — Google/Coursera (2023)
 
 ---
